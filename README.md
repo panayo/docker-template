@@ -4,7 +4,7 @@
 
 Git clone the project:
 ```bash
-git clone https://github.com/panayo/demo-basic.git
+git clone https://github.com/panayo/docker-template.git
 ```
 
 Then go the app folder :
