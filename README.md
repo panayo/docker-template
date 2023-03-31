@@ -75,19 +75,5 @@ Go to the following address on the browser to test the API:
 
 You must wait a few seconds for the Flask server to set up before querying.
 
-
-## Text Data Exploration, Preprocessing, and Model Evaluation using Machine Learning
-
-The entire machine learning process can be divided into three main stages: text data exploration and cleaning, text preprocessing and machine learning, and machine learning model comparison and evaluation.
-
-In the first stage, the Text Data Exploration and Cleaning Notebook is used to explore and clean the text data by performing various data cleaning techniques such as removing irrelevant characters, converting text to lowercase, and removing stop words.
-
-In the second stage, the Text Preprocessing and Machine Learning Notebook is used to preprocess the cleaned text data, prepare it for machine learning, and build machine learning models. This stage involves various techniques such as vectorizing text data and selecting appropriate machine learning algorithms.
-
-In the final stage, the Machine Learning Model Comparison and Evaluation Notebook is used to compare and evaluate the performance of the different machine learning models built in the previous stage. 
-
-It is important to note that training machine learning models can require a significant amount of computational resources, which can be a limitation for some users. As a result, the [Text Preprocessing and Machine Learning](notebooks/2.%20Text%20Preprocessing%20and%20Machine%20Learning%20Notebook.ipynb) includes only one example with errors due to the lack of local resources. To address this issue, the models were trained on an adapted virtual machine that provided the necessary resources for successful model training.
-
-
 END
 
