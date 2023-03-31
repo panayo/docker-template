@@ -12,7 +12,7 @@ Then go the app folder :
 cd app/
 ```
 
-## Launching the Sentiment, Emotion, and Recommendation Engine API Standalone
+## Launching Flask API Standalone
 Activate the virtual environment (prerequisite to have pipenv ```pip install pipenv```) and run the API script inside the virtual environment:
 ```bash
 pipenv install
